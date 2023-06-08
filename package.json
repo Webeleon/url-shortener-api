@@ -62,7 +62,7 @@
     "dotenv": "16.1.4",
     "express": "4.18.2",
     "helmet": "6.2.0",
-    "mongoose": "6.11.1"
+    "mongoose": "6.11.2"
   },
   "lint-staged": {
     "*.{ts}": "prettier --write"
